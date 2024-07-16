@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Reiyonna
+- 👋 Hi, I’m Reiyonna Stephen
 - Well versed with Tensorflow, Pandas, Sci-kit learn, Seaborn, Matplotlib, MongoDB, SQL Workbench, NLTK, Transformers, Plotly, Orange, Streamlit and other data science / ML related tools.
 - I’m looking to collaborate, work and learn on any sprawling Data Science, ML, NLP, deep learning projects.
 - 📫 bump fists with me @ : reiyonna.reuben@gmail.com
