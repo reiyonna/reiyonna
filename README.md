@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Reiyonna!
-- Well versed with Tensorflow, Pandas, Sci-kit learn, Seaborn, Matplotlib, MongoDB, SQL Workbench, NLTK, Transformers, Plotly, Orange, Streamlit and other data science / ML related tools.
 - I'm an AI Engineer. I like building things that sit at the crossover between machine learning, data, and real software.
-Most of my work has been in recommendation systems, computer vision, and NLP.
+- Most of my work has been in recommendation systems, computer vision, and NLP.
+- Well versed with Tensorflow, Pandas, Sci-kit learn, Seaborn, Matplotlib, MongoDB, SQL Workbench, NLTK, Transformers, Plotly, Orange, Streamlit and other data science / ML related tools.
 
 ---
 
