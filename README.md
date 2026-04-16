@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Reiyonna!
-- Well versed with Tensorflow, Pandas, Sci-kit learn, Seaborn, Matplotlib, MongoDB, SQL Workbench, NLTK, Transformers, Plotly, Orange, Streamlit and other data science / ML related tools.
-- I’m looking to collaborate, work and learn on any sprawling Data Science, ML, NLP, deep learning projects.
-- 📫 bump fists with me @ : reiyonna.reuben@gmail.com
+👋 Hi, I’m Reiyonna!
+
+I work across a range of data science and machine learning tools including TensorFlow, Pandas, scikit-learn, Seaborn, Matplotlib, MongoDB, SQL Workbench, NLTK, Transformers, Plotly, Orange, and Streamlit.
+I’m always keen to collaborate, build, and learn through interesting projects in data science, ML, NLP, and deep learning.
 
 <!---
 reiyonna/reiyonna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
